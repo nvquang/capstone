@@ -1,0 +1,184 @@
+,cand_id,country,endMonth,endYear,name,startMonth,startYear
+0,1,US,Present,2014,Georgia Institute of Technology,,2010.0
+1,2,DE,Present,2017,The University of Bonn,,
+2,2,US,Present,2017,University of Wisconsin-Madison,,
+3,2,DE,Present,2014,Rheinische Friedrich-Wilhelms-UniversitÃ¤t Bonn,,2014.0
+4,2,US,Present,2015,University of Wisconsin-Madison,,2011.0
+5,3,US,Present,2017,University of California San Diego,,
+6,3,US,Present,2011,"University of California, San Diego",,2007.0
+7,4,FR,Present,2012,"ITEVEC, Saint Germain en Laye, 78",,2010.0
+8,4,FR,Present,2013,"SUP DE V, Ecole supÃ©rieure de vente",,2012.0
+9,4,FR,Present,2010,CFA STEPHENSON,,2009.0
+10,5,US,Present,2017,University of Pennsylvania,,
+11,5,US,Present,2017,Emory University,,
+12,5,US,Present,2004,Emory University,,2000.0
+13,5,US,Present,2009,University of Pennsylvania,,2007.0
+14,6,,Present,2017,Ecole nationale supÃ©rieure des Industries agricoles et alimentaires,,
+15,6,FR,Present,2005,FacultÃ© de MÃ©decine - Nancy,,2003.0
+16,6,,Present,1996,Ecole nationale supÃ©rieure des Industries agricoles et alimentaires,,1993.0
+17,7,CA,Present,2017,British Columbia Institute of Technology,,
+18,7,CA,Present,2004,British Columbia Institute of Technology,,2002.0
+19,9,GB,Present,2017,University of Kent,,
+20,9,GB,Present,2008,Richmond Adult Community College,,2006.0
+21,9,GB,Present,1999,University of Kent,,1995.0
+22,9,GB,Present,2012,Chelsea College of Art & Design (University of Arts),,2008.0
+23,10,GB,Present,2017,University of York,,
+24,10,GB,Present,2017,University of York,,
+25,12,US,Present,2017,San Jose State University,,
+26,12,US,Present,2014,San Jose State University,,2013.0
+27,13,US,Present,2017,Norwich University,,
+28,13,CA,Present,2017,Ryerson University,,
+29,13,CA,Present,1998,Woburn Collegiate Institute,,1995.0
+30,13,US,Present,2009,Norwich University,,2007.0
+31,13,CA,Present,2003,Ryerson University,,1998.0
+32,15,US,Present,2017,University of Wisconsin-Madison,,
+33,15,US,Present,2009,University of Wisconsin-Madison,,2005.0
+34,15,US,Present,2009,University of Wisconsin-Madison,,2005.0
+35,16,US,Present,2017,Baptist Bible College,,
+36,16,US,Present,2017,Baptist Bible College,,
+37,16,US,Present,2017,Carson Newman College,,
+38,17,IN,Present,2008,"Institute of Technology, Nirma University",,2004.0
+39,20,US,Present,2017,University of North Carolina at Charlotte,,
+40,20,US,Present,2017,University of North Carolina at Charlotte,,2014.0
+41,20,US,Present,2016,University of North Carolina at Charlotte,,2014.0
+42,22,AR,Present,2017,Universidad Nacional de La Plata,,
+43,22,US,Present,2017,Berkeley City College,,
+44,22,AR,Present,2010,Universidad Nacional de La Plata,,2004.0
+45,22,US,Present,2017,IDEO,,2014.0
+46,22,US,Present,2013,Berkeley City College,,2011.0
+47,23,US,Present,2017,CUNY New York City College of Technology,,
+48,23,US,Present,2017,Westchester Community College,,
+49,23,US,Present,1987,Westchester Community College,,1985.0
+50,23,US,Present,1985,CUNY New York City College of Technology,,1983.0
+51,23,US,Present,1983,John F Kennedy High School,,1980.0
+52,24,US,Present,2017,Virginia Tech,,
+53,24,US,Present,2004,Virginia Polytechnic Institute and State University,,2000.0
+54,25,GB,Present,2017,The University of Manchester,,
+55,25,GB,Present,2017,Imperial College London,,
+56,25,GB,Present,2014,Imperial College London,,2013.0
+57,25,GB,Present,2013,The University of Manchester,,2008.0
+58,26,US,Present,2017,University of Redlands,,
+59,26,US,Present,2010,University of Redlands,,2007.0
+60,26,US,Present,2017,Park City High School,,
+61,26,US,Present,2010,University of Redlands,,2006.0
+62,27,US,Present,2013,Massachusetts College of Art,,2009.0
+63,28,ES,Present,2017,Universidad de Sevilla,,
+64,28,ES,Present,2017,Universidad de Sevilla,,
+65,28,ES,Present,2012,Universidad de Sevilla,,2007.0
+66,29,US,Present,2017,Savannah College of Art and Design,,
+67,29,US,Present,2017,Rochester Institute of Technology,,
+68,29,US,Present,2010,Savannah College of Art and Design,,2008.0
+69,29,US,Present,2007,Rochester Institute of Technology,,2003.0
+70,30,US,Present,2017,University of Arizona,,
+71,30,US,Present,1992,University of Arizona,,1988.0
+72,30,US,Present,1992,University of Arizona,,1988.0
+73,32,US,Present,2017,University of Cincinnati,,
+74,32,US,Present,2017,Georgia Institute of Technology,,
+75,32,US,Present,1997,University of Cincinnati,,1993.0
+76,32,US,Present,2000,Georgia Institute of Technology,,1997.0
+77,33,US,Present,2017,Georgia State University,,
+78,33,US,Present,2017,Savannah College of Art and Design,,
+79,33,US,Present,2005,Georgia State University,,2003.0
+80,33,US,Present,2000,Savannah College of Art and Design,,1998.0
+81,35,US,Present,2017,Virginia Commonwealth University,,
+82,35,US,Present,2017,Virginia Commonwealth University,,
+83,36,CO,Present,2017,Universidad Militar Nueva Granada,,
+84,36,CO,Present,2017,Pontificia Universidad Javeriana,,
+85,36,CO,Present,2004,Pontificia Universidad Javeriana,,2001.0
+86,36,CO,Present,2009,Universidad Militar Nueva Granada,,2005.0
+87,37,US,Present,2001,Purchase College,,1997.0
+88,37,US,Present,1997,Watkinson High School,,1993.0
+89,38,US,Present,2017,Stanford University,,
+90,38,US,Present,2017,Northwest Missouri State University,,
+91,38,US,Present,2017,Stanford University,,2015.0
+92,38,US,Present,2004,Northwest Missouri State University,,2000.0
+93,39,US,Present,2017,Wayne State University,,
+94,39,US,Present,2017,Wayne State University,,2013.0
+95,40,IN,Present,2004,TSEC,,2001.0
+96,40,IN,Present,2001,Vartak Polytechnic,,1998.0
+97,41,US,Present,2017,"University of California, Berkeley",,
+98,41,US,Present,2007,"University of California, Berkeley",,2003.0
+99,42,US,Present,2017,Stanford University,,
+100,42,US,Present,2017,New York University,,
+101,42,US,Present,2008,Marin Academy,,2004.0
+102,42,US,Present,2012,New York University,,2008.0
+103,42,US,Present,2014,Stanford University,,2012.0
+104,43,US,Present,2017,Indiana University Bloomington,,
+105,43,US,Present,2017,Indiana University - Kelley School of Business,,
+106,43,US,Present,2005,Indiana University Bloomington,,2001.0
+107,43,US,Present,2008,Indiana University - Kelley School of Business,,2006.0
+108,45,US,Present,2017,WGU Washington,,
+109,45,US,Present,2017,WGU Washington,,
+110,46,US,Present,2017,University of Missouri-Columbia,,
+111,46,US,Present,2011,University of Washington,,2011.0
+112,46,US,Present,2005,University of Missouri-Columbia,,2000.0
+113,46,US,Present,2013,University of Washington,,2013.0
+114,48,US,Present,2017,Illinois Institute of Technology,,
+115,48,CN,Present,2017,Xidian University,,
+116,48,CN,Present,2011,Xidian University,,2007.0
+117,48,US,Present,2014,Illinois Institute of Technology,,2013.0
+118,49,MX,Present,2017,TecnolÃ³gico de Monterrey,,
+119,49,MX,Present,2002,Instituto TecnolÃ³gico y de Estudios Superiores de Monterrey / ITESM,,1998.0
+120,50,GB,Present,2017,University of East London,,
+121,50,GB,Present,2017,The University of Huddersfield,,
+122,50,GB,Present,2011,University of East London,,2009.0
+123,50,GB,Present,2008,The University of Huddersfield,,2005.0
+124,51,AU,Present,2017,University of Technology Sydney,,
+125,51,AU,Present,2009,"University of Technology, Sydney",,2007.0
+126,51,AU,Present,2010,FBI Fashion College,,2010.0
+127,52,US,Present,2017,Sacred Heart University,,
+128,52,US,Present,2003,Sacred Heart University,,2000.0
+129,54,,Present,2017,National University of Singapore,,
+130,54,SG,Present,2017,Raffles Institution,,
+131,54,SG,Present,2017,Raffles Junior College,,
+132,54,,Present,2006,National University of Singapore,,2002.0
+133,55,BR,Present,2017,Universidade Federal de UberlÃ¢ndia - UFU,,
+134,55,BR,Present,2008,Universidade Federal de UberlÃ¢ndia - UFU,,2004.0
+135,56,US,Present,2017,Swarthmore College,,
+136,56,US,Present,2004,Swarthmore College,,2000.0
+137,56,US,Present,2000,Santa Catalina School,,1996.0
+138,58,,Present,2017,Moscow International University of Business and Information Technology,,
+139,58,,Present,2002,Moscow International University of Business and Information Technology,,2001.0
+140,59,US,Present,2017,North Carolina State University - College of Management,,
+141,59,US,Present,2017,Wayne Community College,,
+142,59,US,Present,1993,North Carolina State University - College of Management,,1990.0
+143,59,US,Present,1990,Wayne Community College,,1988.0
+144,60,US,Present,2017,Milwaukee School of Engineering,,
+145,60,US,Present,2012,Milwaukee School of Engineering,,2008.0
+146,61,US,Present,2017,National University,,
+147,61,CN,Present,2017,University of Science and Technology of China,,
+148,61,US,Present,2013,National University,,2011.0
+149,61,CN,Present,1998,University of Science and Technology of China,,1993.0
+150,62,US,Present,2017,Stanford University Graduate School of Business,,
+151,62,US,Present,2017,University of Pennsylvania,,
+152,62,GB,Present,2017,University of Cambridge,,
+153,62,GB,Present,2017,Cambridge University,,
+154,62,US,Present,2004,Stanford University Graduate School of Business,,2002.0
+155,62,US,Present,1997,University of Pennsylvania,,1995.0
+156,63,US,Present,2017,De Anza College,,
+157,63,US,Present,2000,De Anza College,,1997.0
+158,64,,Present,2017,IAE FRANCE - Ãcoles Universitaires de Management,,
+159,64,FR,Present,1994,LycÃ©e Angellier,,1992.0
+160,64,FR,Present,1996,LycÃ©e Angellier,,1994.0
+161,64,,Present,1998,IAE FRANCE - Ãcoles Universitaires de Management,,1996.0
+162,65,FR,Present,2005,"University of Luminy, Marseille",,2002.0
+163,66,GB,Present,2017,University of Bedfordshire,,
+164,66,US,Present,2017,Wichita State University,,
+165,66,US,Present,2013,Wichita State University,,2012.0
+166,66,GB,Present,2011,University of Bedfordshire,,2010.0
+167,67,US,Present,2017,"California State University, Northridge",,
+168,67,US,Present,2017,Nielson Norman Group,,
+169,67,US,Present,2017,California State University-Northridge,,
+170,68,US,Present,2017,University of Central Florida,,
+171,68,US,Present,2005,University of Central Florida,,2000.0
+172,68,US,Present,2004,University of Central Florida,,1999.0
+173,69,IN,Present,2017,University of Mumbai,,
+174,69,US,Present,2017,University of Central Florida,,
+175,69,US,Present,2017,The University of Chicago Booth School of Business,,
+176,69,US,12,1995,University of Central Florida,9.0,1993.0
+177,69,US,Present,2001,The University of Chicago Booth School of Business,,1999.0
+178,69,IN,4,1992,University of Bombay,7.0,1988.0
+179,70,CH,Present,1998,AGS Basel,,1994.0
+180,71,IE,Present,2017,Dublin City University,,
+181,71,IE,Present,1985,Blackrock College,,1974.0
+182,71,IE,Present,1988,Dublin City University,,1985.0
